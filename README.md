@@ -1,5 +1,5 @@
 This Is what im learning from my class
-In upcoming days im regularly sharing my assignment overhere with in depth notes.
+In upcoming days im regularly sharing my assignment overhere with (in-depth) notes.
 learning what is necessary in market now so dont doubt the syllabus .
 ✍ Syllabus of AWS/DevOps👇
 
